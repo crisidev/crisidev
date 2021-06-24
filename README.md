@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 <!--
 **crisidev/crisidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crisidev" alt="crisidev" /></a> </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=crisidev&show_icons=true&locale=en" alt="crisidev" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crisidev&show_icons=true&locale=en&layout=compact" alt="crisidev" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crisidev&" alt="crisidev" />
+</p>
