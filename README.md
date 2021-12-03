@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src=https://github-readme-stats.vercel.app/api?username=crisidev&show_icons=true&theme=tokyonight&count_private=true />
 </p>
 
-### 🚧 I enjoy building things with
+### 🚧 I enjoy building things with ...
 
 <p>
   <a href="https://www.rust-lang.org/">
@@ -34,3 +34,6 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/go.svg" alt="GoLang" style="vertical-align:top; margin:4px">
   </a>
 </p>
+
+### 🔭 I’m currently working on ...
+ - Creating the Rust server SDK for AWS: <a href="https://github.com/awslabs/smithy-rs">Smithy Rust Service Framework</a>
