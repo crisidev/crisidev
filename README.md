@@ -1,27 +1,10 @@
-### 👋 Hello there! 👋
+## 🦀 Hello there! 🦀
 
-<!--
-**crisidev/crisidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<p align="left">
-  <img src=https://github-readme-stats.vercel.app/api?username=crisidev&show_icons=true&theme=tokyonight&count_private=true />
-</p>
+I am Bigo, italian living in London 🇬🇧!
 
 ### 🚧 I enjoy building things with ...
 
-<p>
+
   <a href="https://www.rust-lang.org/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/rust.svg" alt="Rust" style="vertical-align:top; margin:4px">
   </a>
@@ -33,7 +16,15 @@ Here are some ideas to get you started:
   <a href="https://golang.org/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/go.svg" alt="GoLang" style="vertical-align:top; margin:4px">
   </a>
-</p>
+
 
 ### 🔭 I’m currently working on ...
- - Creating the Rust server SDK for AWS: <a href="https://github.com/awslabs/smithy-rs">Smithy Rust Service Framework</a>
+
+- Creating the Rust server SDK for AWS: <a href="https://github.com/awslabs/smithy-rs">Smithy Rust Service Framework</a>
+ - Playing a lot with FFI and Rust to build a single framework supporting multiple programming languages:
+     - 🐍 <a href="https://github.com/awslabs/smithy-rs/blob/main/rust-runtime/aws-smithy-http-server-python/examples/README.md">Smithy Python Service Framework</a>
+     - More to come 😬
+
+### 💻 Writing code ...
+
+I maintain a pretty <a href="https://github.com/crisidev/dotfiles/tree/main/home/.config/lvim">complex and bloated Neovim IDE</a> configuration that makes my editor as powerful as IntelliJ or Vscode!
