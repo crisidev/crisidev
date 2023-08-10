@@ -27,4 +27,4 @@ I am Bigo, italian living in London 🇬🇧!
 
 ### 💻 Writing code ...
 
-I maintain a pretty <a href="https://github.com/crisidev/dotfiles/tree/main/home/.config/lvim">complex and bloated Neovim IDE</a> configuration that makes my editor as powerful as IntelliJ or Vscode!
+I maintain a pretty <a href="https://github.com/crisidev/lvim/tree/main/home/.config/lvim">complex and bloated Neovim IDE</a> configuration that makes my editor as powerful as IntelliJ or Vscode!
